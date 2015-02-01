@@ -1,0 +1,1 @@
+var bm = {run: function(){alert('run function!');}};
